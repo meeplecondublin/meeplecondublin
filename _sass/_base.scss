@@ -100,9 +100,9 @@ aside {
                 > a,
                 > a:focus {
                     color: $theme-primary !important;
-                    background-color: transparent;
+                    background-color: white;
                     &:hover {
-                        background-color: transparent;
+                        background-color: white;
                     }
                 }
             }
